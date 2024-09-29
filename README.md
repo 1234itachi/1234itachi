@@ -1,9 +1,10 @@
-- 👋 Hi, I’m chandra sankar saha
-- 👀 I’m interested in computer science related things
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything(just want to learn something new)
+- 👋 Hi, I’m chandra sankar saha.
+- 👀 I’m interested in computer science related things.
+- 🌱 I’m currently learning python.
+- 🎓 I am currently in 3rd year of computer science engineering.
+- 💞️ I’m looking to collaborate on anything(just want to learn something new).
 - 📫 How to reach me:- knowswho231@gmail.com
-- ⚡ Fun fact: A group of flamingos is called a "flamboyance!"
+- ⚡ Fun fact: A group of flamingos is called a "flamboyance!".
 
 <!---
 1234itachi/1234itachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
